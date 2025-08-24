@@ -33,10 +33,10 @@ jobs:
       - name: Check for actual GitHub repository changes
         id: check_changes
         run: |
-          # Get the last commit by a non-bot user
-          LAST_USER_COMMIT=$(git log --author="GitHub Action" -n 1 --format="%H" || echo "none")
+          # Get the last commit by the bot user
+          LAST_BOT_COMMIT=$(git log --author="CloveTwilight3 [BOT]" -n 1 --format="%H" 2>/dev/null || echo "")
           
-          if [ "$LAST_USER_COMMIT" != "none" ]; then
+          if [ -n "$LAST_BOT_COMMIT" ]; then
             # Check if there are actual repository changes since the last bot commit
             USER_CHANGES=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
               "https://api.github.com/users/clovetwilight3/repos?sort=updated&direction=desc&per_page=20")
@@ -69,7 +69,7 @@ jobs:
             fi
             
             # Get timestamp of the last bot commit
-            LAST_BOT_TIMESTAMP=$(git show -s --format=%ct "$LAST_USER_COMMIT")
+            LAST_BOT_TIMESTAMP=$(git show -s --format=%ct "$LAST_BOT_COMMIT")
             
             if [ $LATEST_TIMESTAMP -gt $LAST_BOT_TIMESTAMP ]; then
               echo "has_updates=true" >> $GITHUB_OUTPUT
