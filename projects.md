@@ -4,15 +4,15 @@
 
 ### Personal Projects
 
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+#### [plural.clovetwilight3.co.uk](https://github.com/CloveTwilight3/plural.clovetwilight3.co.uk)
 
-No description provided.
+A PluralKit website created for friends to see who's fronting my system 
 
 **Language:** JavaScript
 
 ⭐ 0 | 🍴 0
 
-Last updated: 02:48 10 August, 2025 (UTC)
+Last updated: 20:28 24 August, 2025 (UTC)
 
 ---
 
@@ -25,6 +25,18 @@ My GitHub profile repository with custom README and configuration.
 ⭐ 0 | 🍴 0
 
 Last updated: 14:38 2 May, 2025 (UTC)
+
+---
+
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
@@ -83,18 +95,6 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 02:46 10 August, 2025 (UTC)
-
----
-
-#### [plural-web](https://github.com/CloveTwilight3/plural-web)
-
-A PluralKit website created for friends to see who's fronting my system 
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 08:57 4 July, 2025 (UTC)
 
 ---
 
