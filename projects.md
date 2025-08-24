@@ -4,6 +4,18 @@
 
 ### Personal Projects
 
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
 #### [clovetwilight3.co.uk](https://github.com/CloveTwilight3/clovetwilight3.co.uk)
 
 No description provided.
@@ -37,18 +49,6 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 10:13 24 August, 2025 (UTC)
-
----
-
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
