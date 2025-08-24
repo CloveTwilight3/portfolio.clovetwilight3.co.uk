@@ -4,6 +4,54 @@
 
 ### Personal Projects
 
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+
+My GitHub profile repository with custom README and configuration.
+
+**Language:** Markdown
+
+⭐ 0 | 🍴 0
+
+Last updated: 14:38 2 May, 2025 (UTC)
+
+---
+
+#### [clovetwilight3.co.uk](https://github.com/CloveTwilight3/clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:46 10 August, 2025 (UTC)
+
+---
+
+#### [gaming.clovetwilight3.co.uk](https://github.com/CloveTwilight3/gaming.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:27 10 August, 2025 (UTC)
+
+---
+
+#### [socials.clovetwilight3.co.uk](https://github.com/CloveTwilight3/socials.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 10:13 24 August, 2025 (UTC)
+
+---
+
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 No description provided.
@@ -28,18 +76,6 @@ Last updated: 20:28 24 August, 2025 (UTC)
 
 ---
 
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
-
-My GitHub profile repository with custom README and configuration.
-
-**Language:** Markdown
-
-⭐ 0 | 🍴 0
-
-Last updated: 14:38 2 May, 2025 (UTC)
-
----
-
 #### [websites](https://github.com/CloveTwilight3/websites)
 
 No description provided.
@@ -47,30 +83,6 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 18:10 24 August, 2025 (UTC)
-
----
-
-#### [socials.clovetwilight3.co.uk](https://github.com/CloveTwilight3/socials.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 10:13 24 August, 2025 (UTC)
-
----
-
-#### [gaming.clovetwilight3.co.uk](https://github.com/CloveTwilight3/gaming.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:27 10 August, 2025 (UTC)
 
 ---
 
@@ -83,18 +95,6 @@ A FAQ and About me page.
 ⭐ 0 | 🍴 0
 
 Last updated: 01:21 18 August, 2025 (UTC)
-
----
-
-#### [clovetwilight3.co.uk](https://github.com/CloveTwilight3/clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:46 10 August, 2025 (UTC)
 
 ---
 
