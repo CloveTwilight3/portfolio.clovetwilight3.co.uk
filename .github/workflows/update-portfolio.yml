@@ -1,0 +1,123 @@
+name: Update Portfolio
+
+on:
+  # Run this workflow on a schedule (every 10 minutes)
+  schedule:
+    - cron: '*/10 * * * *'  # Runs every 10 minutes
+  
+  # Run this workflow when you push to the main branch
+  push:
+    branches: [ main ]
+  
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  update-portfolio:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for proper change detection
+        
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm install @octokit/rest@latest
+        
+      - name: Check for actual GitHub repository changes
+        id: check_changes
+        run: |
+          # Get the last commit by a non-bot user
+          LAST_USER_COMMIT=$(git log --author="GitHub Action" -n 1 --format="%H" || echo "none")
+          
+          if [ "$LAST_USER_COMMIT" != "none" ]; then
+            # Check if there are actual repository changes since the last bot commit
+            USER_CHANGES=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+              "https://api.github.com/users/clovetwilight3/repos?sort=updated&direction=desc&per_page=20")
+            
+            # Check specific organization repos (only UnifiedGaming-Systems, not Epic-Games)
+            ORG_CHANGES=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+              "https://api.github.com/orgs/UnifiedGaming-Systems/repos?sort=updated&direction=desc&per_page=20")
+            
+            # Extract timestamp of most recent repo updates
+            USER_LATEST_UPDATE=$(echo "$USER_CHANGES" | grep -o '"updated_at": "[^"]*"' | head -1 | cut -d'"' -f4)
+            ORG_LATEST_UPDATE=$(echo "$ORG_CHANGES" | grep -o '"updated_at": "[^"]*"' | head -1 | cut -d'"' -f4)
+            
+            USER_LATEST_TIMESTAMP=0
+            ORG_LATEST_TIMESTAMP=0
+            
+            # Convert timestamps to Unix time
+            if [ ! -z "$USER_LATEST_UPDATE" ]; then
+              USER_LATEST_TIMESTAMP=$(date -d "$USER_LATEST_UPDATE" +%s)
+            fi
+            
+            if [ ! -z "$ORG_LATEST_UPDATE" ]; then
+              ORG_LATEST_TIMESTAMP=$(date -d "$ORG_LATEST_UPDATE" +%s)
+            fi
+            
+            # Find the most recent timestamp
+            if [ $USER_LATEST_TIMESTAMP -gt $ORG_LATEST_TIMESTAMP ]; then
+              LATEST_TIMESTAMP=$USER_LATEST_TIMESTAMP
+            else
+              LATEST_TIMESTAMP=$ORG_LATEST_TIMESTAMP
+            fi
+            
+            # Get timestamp of the last bot commit
+            LAST_BOT_TIMESTAMP=$(git show -s --format=%ct "$LAST_USER_COMMIT")
+            
+            if [ $LATEST_TIMESTAMP -gt $LAST_BOT_TIMESTAMP ]; then
+              echo "has_updates=true" >> $GITHUB_OUTPUT
+            else
+              echo "has_updates=false" >> $GITHUB_OUTPUT
+            fi
+          else
+            # No previous bot commits, so definitely run
+            echo "has_updates=true" >> $GITHUB_OUTPUT
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Fetch and filter repositories
+        if: steps.check_changes.outputs.has_updates == 'true' || github.event_name != 'schedule'
+        run: |
+          node .github/scripts/update-projects.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INCLUDE_ALL_REPOS: 'true'
+          PRESERVE_TIMESTAMPS: 'true'  # New flag to control timestamp behavior
+          
+      - name: Fetch GitHub avatar for favicon
+        if: steps.check_changes.outputs.has_updates == 'true' || github.event_name != 'schedule'
+        run: |
+          node .github/scripts/fetch-favicon.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate resume
+        if: steps.check_changes.outputs.has_updates == 'true' || github.event_name != 'schedule'
+        run: |
+          node .github/scripts/generate-resume.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit and push if actual content changed
+        if: steps.check_changes.outputs.has_updates == 'true' || github.event_name != 'schedule'
+        run: |
+          git config --global user.name 'CloveTwilight3 [BOT]'
+          git config --global user.email '193822784+CloveTwilightBOT@users.noreply.github.com'
+          
+          # Only commit if there are non-timestamp changes
+          git diff | grep -v "Last updated:" | grep -q "." && changed=1 || changed=0
+          
+          if [ $changed -eq 1 ]; then
+            git add -A
+            git diff --quiet && git diff --staged --quiet || (git commit -m "Update portfolio with latest projects" && git push)
+          else
+            echo "No significant changes detected. Skipping commit."
+          fi

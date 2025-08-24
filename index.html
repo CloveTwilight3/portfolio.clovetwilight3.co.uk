@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://clovetwilight3.co.uk/">
+    <meta property="og:title" content="Portfolio - Clove Twilight">
+    <meta property="og:description" content="Clove Twilight's Developer Portfolio - Minecraft Modder, Java/TypeScript Developer, and Linux Enthusiast">
+    <meta property="og:image" content="https://clovetwilight3.co.uk/avatar.jpg">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:url" content="https://clovetwilight3.co.uk/">
+    <meta property="twitter:title" content="Portfolio - Clove Twilight">
+    <meta property="twitter:description" content="Clove Twilight's Developer Portfolio - Minecraft Modder, Java/TypeScript Developer, and Linux Enthusiast">
+    <meta property="twitter:image" content="https://clovetwilight3.co.uk/avatar.jpg">
+
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#2a1b3d" />
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Clove Twilight's Developer Portfolio - Minecraft Modder, Java/TypeScript Developer, and Linux Enthusiast">
+    <meta name="keywords" content="developer, portfolio, minecraft, java, typescript, discord bot, linux">
+    <meta name="author" content="Clove Twilight">
+    <meta name="google-adsense-account" content="ca-pub-2820378422214826">
+    <title>Portfolio - Clove Twilight</title>
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NPM2RZ42');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Google's AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2820378422214826"
+        crossorigin="anonymous"></script>
+
+    <!-- Google's Consent Mode Setup -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+
+        // Default consent to denied until user provides consent
+        gtag('consent', 'default', {
+            'ad_storage': 'denied',
+            'analytics_storage': 'denied',
+            'wait_for_update': 500
+        });
+
+        // Function to handle user consent choices
+        function updateConsentState(consent) {
+            gtag('consent', 'update', {
+                'ad_storage': consent ? 'granted' : 'denied',
+                'analytics_storage': consent ? 'granted' : 'denied'
+            });
+
+            // Store consent in local storage to remember user's choice
+            localStorage.setItem('user_consent', consent ? 'granted' : 'denied');
+
+            // Hide consent banner
+            document.getElementById('consent-banner').style.display = 'none';
+
+            // Reload ads if consent was granted
+            if (consent) {
+                (adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds = 0;
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            } else {
+                (adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds = 1;
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            }
+        }
+
+        // Show the consent banner when document loads
+        document.addEventListener('DOMContentLoaded', function () {
+            // Check if user has already provided consent
+            const storedConsent = localStorage.getItem('user_consent');
+            if (storedConsent === 'granted') {
+                updateConsentState(true);
+            } else if (storedConsent === 'denied') {
+                updateConsentState(false);
+            } else {
+                // Show consent banner if no previous choice
+                document.getElementById('consent-banner').style.display = 'flex';
+            }
+        });
+    </script>
+
+    <!-- Website Styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="apple-touch-icon" href="favicon.png">
+
+    <style>
+        /* Layout styles with left sidebar */
+        .site-layout {
+            display: flex;
+            max-width: 1200px;
+            margin: 0 auto;
+            gap: 20px;
+        }
+
+        .sidebar {
+            width: 300px;
+            min-width: 300px;
+            padding-top: 30px;
+            position: sticky;
+            top: 100px;
+            height: calc(100vh - 100px);
+            align-self: flex-start;
+        }
+
+        .main-content {
+            flex: 1;
+            min-width: 0;
+            /* Prevents flex items from overflowing */
+        }
+
+        /* Consent Banner */
+        #consent-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: rgba(32, 33, 36, 0.9);
+            color: white;
+            padding: 20px;
+            z-index: 1000;
+            display: none;
+            /* Hidden by default, shown by JS */
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .consent-message {
+            flex: 1;
+            min-width: 300px;
+            margin-right: 20px;
+            margin-bottom: 10px;
+        }
+
+        .consent-buttons {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .consent-btn {
+            padding: 8px 16px;
+            border-radius: 4px;
+            font-weight: 600;
+            cursor: pointer;
+            border: none;
+            font-family: inherit;
+            transition: all 0.2s ease;
+        }
+
+        .consent-accept {
+            background-color: #4285F4;
+            color: white;
+        }
+
+        .consent-accept:hover {
+            background-color: #2b6ed9;
+        }
+
+        .consent-decline {
+            background-color: #5f6368;
+            color: white;
+        }
+
+        .consent-decline:hover {
+            background-color: #4a4d51;
+        }
+
+        .consent-manage {
+            background-color: transparent;
+            border: 1px solid #dadce0;
+            color: #dadce0;
+        }
+
+        .consent-manage:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 1024px) {
+            .site-layout {
+                flex-direction: column;
+            }
+
+            .sidebar {
+                width: 100%;
+                min-width: 100%;
+                height: auto;
+                position: static;
+                order: 2;
+                /* Move sidebar below main content on mobile */
+            }
+
+            .main-content {
+                order: 1;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NPM2RZ42" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <h1>Clove Twilight</h1>
+            <nav>
+                <ul>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="/resume.pdf" class="resume-btn" target="_blank"><i class="fas fa-file-pdf"></i>
+                            Resume</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h2>👋 Hi, I'm <span class="highlight">Clove Twilight</span></h2>
+                    <h3 class="subtitle">Linux Enthusiast • Plural Accessibilty Tools Developer</h3>
+                    <p class="hero-description">Building creative solutions with code, I have over 40 public project,
+                        most with stable releases. Working primarily with Accessibility Tools for Plural Systems, and
+                        creating verified Discord for security in large servers, such as the r/TransGamers Discord
+                        Server</p>
+                    <div class="hero-cta">
+                        <a href="#projects" class="cta-btn primary"><i class="fas fa-code"></i> View My Work</a>
+                        <a href="#contact" class="cta-btn secondary"><i class="fas fa-paper-plane"></i> Get In Touch</a>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <div class="discord-badge">
+                        <img src="https://discord-readme-badge.vercel.app/api?id=1025770042245251122" alt="My Discord">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content with Sidebar Layout -->
+    <div class="container">
+        <div class="site-layout">
+            <!-- Left Sidebar with Ad -->
+            <aside class="sidebar">
+                <!-- AdSense ad unit with actual ad slot -->
+                <script async
+                    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2820378422214826"
+                    crossorigin="anonymous"></script>
+                <!-- Vertical -->
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2820378422214826"
+                    data-ad-slot="7362645348" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </aside>
+
+            <!-- Main Content Area -->
+            <main class="main-content">
+                <!-- Projects Section -->
+                <section id="projects" class="projects">
+                    <h2>🔗 Featured Projects</h2>
+                    <p class="subtitle">A collection of my work - from personal repositories and UnifiedGaming Systems
+                        Ltd</p>
+
+                    <div class="project-filters">
+                        <button class="filter-btn active" data-filter="all">All Projects</button>
+                        <button class="filter-btn" data-filter="personal">Personal</button>
+                        <button class="filter-btn" data-filter="organization">UnifiedGaming Systems</button>
+                        <button class="filter-btn" data-filter="java">Java</button>
+                        <button class="filter-btn" data-filter="typescript">TypeScript</button>
+                        <button class="filter-btn" data-filter="javascript">JavaScript</button>
+                        <button class="filter-btn" data-filter="python">Python</button>
+                        <button class="filter-btn" data-filter="minecraft">Minecraft</button>
+                        <button class="filter-btn" data-filter="discord">Discord</button>
+                        <button class="filter-btn" data-filter="archive">Archives</button>
+                    </div>
+
+                    <div id="projects-container">
+                        <!-- Projects will be loaded here via JavaScript -->
+                        <div class="loading">Loading projects...</div>
+                    </div>
+                </section>
+
+                <!-- Skills Section -->
+                <section id="skills" class="skills-section">
+                    <h2>🧠 Skills & Technologies</h2>
+                    <p class="subtitle">My technical toolkit for solving problems</p>
+
+                    <div class="skills-categories">
+                        <!-- Skills content goes here -->
+                    </div>
+                </section>
+
+                <!-- About Section -->
+                <section id="about" class="about">
+                    <h2>About Me</h2>
+                    <div class="about-content">
+                        <div class="about-text">
+                            <p>I am Clove Twilight (She/Her/Fae/Faer), a passionate developer focusing on creating
+                                useful applications, from Discord bots to Minecraft plugins and web applications.</p>
+                            <p>As a lesbian transgender woman, I bring my unique perspective to the development world,
+                                creating inclusive and accessible software solutions.</p>
+                            <p>I am also a plural system, so see <a href="https://plural.clovetwilight3.co.uk/"
+                                    target="_blank">plural.clovetwilight3.co.uk</a> (In dev)</p>
+                            <p>With a background in both frontend and backend technologies, I enjoy solving complex
+                                problems and building tools that help others. I'm particularly interested in
+                                gaming-related development and automation.</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Contact Section -->
+                <section id="contact" class="contact">
+                    <h2>🌐 Get In Touch</h2>
+                    <p class="subtitle">Interested in working together? Reach out through any of these platforms</p>
+
+                    <div class="contact-links">
+                        <a href="https://github.com/clovetwilight3" target="_blank"><i class="fab fa-github"></i>
+                            GitHub</a>
+                        <a href="https://clovetwilight3.co.uk" target="_blank"><i class="fas fa-globe"></i> Website</a>
+                        <a href="mailto:admin@clovetwilight3.co.uk"><i class="fas fa-envelope"></i> Email Me</a>
+                        <a><i class="fab fa-discord"></i> Discord: CloveTwilight3</a>
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <img src="favicon.png" alt="Clove Twilight Logo" class="footer-logo">
+                    <p>&copy; 2025 Clove Twilight</p>
+                </div>
+                <div class="footer-links">
+                    <a href="https://github.com/clovetwilight3">GitHub</a>
+                    <a href="https://clovetwilight3.co.uk">Website</a>
+                    <a href="https://en.pronouns.page/@clovetwilight3">Pronouns</a>
+                    <a href="https://plural.clovetwilight3.co.uk">System Website</a>
+                    <a href="/resume.pdf">Resume</a>
+                    <a href="#projects">Projects</a>
+                </div>
+            </div>
+            <div class="footer-note">
+                <p>My portfolio is regularly updated with my latest projects and work via GitHub Actions.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Cookie Consent Banner -->
+    <div id="consent-banner">
+        <div class="consent-message">
+            <h3>Cookie Consent</h3>
+            <p>This website uses cookies and similar technologies to improve your online experience and show
+                personalized ads. Choose how you want your data to be used.</p>
+        </div>
+        <div class="consent-buttons">
+            <button class="consent-btn consent-accept" onclick="updateConsentState(true)">Accept All</button>
+            <button class="consent-btn consent-decline" onclick="updateConsentState(false)">Reject All</button>
+            <button class="consent-btn consent-manage" onclick="showDetailedOptions()">Manage Options</button>
+        </div>
+    </div>
+
+    <!-- Cookie Detailed Options Modal (hidden by default) -->
+    <div id="detailed-options" style="display: none;">
+        <!-- This would be populated with more granular cookie options -->
+    </div>
+
+    <!-- JavaScript -->
+    <script>
+        // Function to show detailed cookie options
+        function showDetailedOptions() {
+            // This would show a modal with more detailed cookie options
+            alert("Detailed cookie options would appear here in a production environment.");
+        }
+    </script>
+
+    <!-- Your website scripts -->
+    <script src="scripts.js"></script>
+</body>
+
+</html>
