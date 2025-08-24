@@ -21,6 +21,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Fetch all history for proper change detection
+          token: ${{ secrets.CLOVE_PAT_TOKEN }}  # Use your bot's PAT here
         
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -38,11 +39,11 @@ jobs:
           
           if [ -n "$LAST_BOT_COMMIT" ]; then
             # Check if there are actual repository changes since the last bot commit
-            USER_CHANGES=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            USER_CHANGES=$(curl -s -H "Authorization: token ${{ secrets.CLOVE_PAT_TOKEN }}" \
               "https://api.github.com/users/clovetwilight3/repos?sort=updated&direction=desc&per_page=20")
             
             # Check specific organization repos (only UnifiedGaming-Systems, not Epic-Games)
-            ORG_CHANGES=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            ORG_CHANGES=$(curl -s -H "Authorization: token ${{ secrets.CLOVE_PAT_TOKEN }}" \
               "https://api.github.com/orgs/UnifiedGaming-Systems/repos?sort=updated&direction=desc&per_page=20")
             
             # Extract timestamp of most recent repo updates
@@ -81,14 +82,14 @@ jobs:
             echo "has_updates=true" >> $GITHUB_OUTPUT
           fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CLOVE_PAT_TOKEN }}
       
       - name: Fetch and filter repositories
         if: steps.check_changes.outputs.has_updates == 'true' || github.event_name != 'schedule'
         run: |
           node .github/scripts/update-projects.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CLOVE_PAT_TOKEN }}
           INCLUDE_ALL_REPOS: 'true'
           PRESERVE_TIMESTAMPS: 'true'  # New flag to control timestamp behavior
           
@@ -97,20 +98,23 @@ jobs:
         run: |
           node .github/scripts/fetch-favicon.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CLOVE_PAT_TOKEN }}
           
       - name: Generate resume
         if: steps.check_changes.outputs.has_updates == 'true' || github.event_name != 'schedule'
         run: |
           node .github/scripts/generate-resume.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CLOVE_PAT_TOKEN }}
           
       - name: Commit and push if actual content changed
         if: steps.check_changes.outputs.has_updates == 'true' || github.event_name != 'schedule'
         run: |
           git config --global user.name 'CloveTwilight3 [BOT]'
           git config --global user.email '193822784+CloveTwilightBOT@users.noreply.github.com'
+          
+          # Set the remote URL to use the PAT
+          git remote set-url origin https://x-access-token:${{ secrets.CLOVE_PAT_TOKEN }}@github.com/${{ github.repository }}.git
           
           # Only commit if there are non-timestamp changes
           git diff | grep -v "Last updated:" | grep -q "." && changed=1 || changed=0
