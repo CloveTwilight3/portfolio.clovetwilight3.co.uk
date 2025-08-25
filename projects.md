@@ -4,6 +4,160 @@
 
 ### Personal Projects
 
+#### [end-stats](https://github.com/CloveTwilight3/end-stats)
+
+A basic end stats repo
+
+**Language:** Java
+
+⭐ 0 | 🍴 0
+
+Last updated: 10:25 20 August, 2025 (UTC)
+
+---
+
+#### [Files](https://github.com/CloveTwilight3/Files)
+
+No description provided.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 1
+
+Last updated: 20:45 14 August, 2025 (UTC)
+
+---
+
+#### [JailPlugin](https://github.com/CloveTwilight3/JailPlugin)
+
+A simple jail plugin
+
+**Language:** Java
+
+⭐ 2 | 🍴 1
+
+Last updated: 10:22 1 July, 2025 (UTC)
+
+---
+
+#### [Simple-Link-Hub-Template](https://github.com/CloveTwilight3/Simple-Link-Hub-Template)
+
+A template website for easy url buttons
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 14:43 24 August, 2025 (UTC)
+
+---
+
+#### [plural.clovetwilight3.co.uk](https://github.com/CloveTwilight3/plural.clovetwilight3.co.uk)
+
+A PluralKit website created for friends to see who's fronting my system 
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 20:28 24 August, 2025 (UTC)
+
+---
+
+#### [socials.clovetwilight3.co.uk](https://github.com/CloveTwilight3/socials.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 10:13 24 August, 2025 (UTC)
+
+---
+
+#### [gaming.clovetwilight3.co.uk](https://github.com/CloveTwilight3/gaming.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:27 10 August, 2025 (UTC)
+
+---
+
+#### [clovetwilight3.co.uk](https://github.com/CloveTwilight3/clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:46 10 August, 2025 (UTC)
+
+---
+
+#### [websites](https://github.com/CloveTwilight3/websites)
+
+No description provided.
+
+⭐ 0 | 🍴 0
+
+Last updated: 18:10 24 August, 2025 (UTC)
+
+---
+
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+
+My GitHub profile repository with custom README and configuration.
+
+**Language:** Markdown
+
+⭐ 0 | 🍴 0
+
+Last updated: 14:38 2 May, 2025 (UTC)
+
+---
+
+#### [faq.clovetwilight3.co.uk](https://github.com/CloveTwilight3/faq.clovetwilight3.co.uk)
+
+A FAQ and About me page.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 01:21 18 August, 2025 (UTC)
+
+---
+
+#### [Cloves-PluralCraft-Spigot](https://github.com/CloveTwilight3/Cloves-PluralCraft-Spigot)
+
+A Simple Plugin for Plural Systems
+
+**Language:** Java
+
+⭐ 2 | 🍴 0
+
+Last updated: 03:20 3 May, 2025 (UTC)
+
+---
+
+#### [Cloves-PluralCraft](https://github.com/CloveTwilight3/Cloves-PluralCraft)
+
+A Fabric Mod for Systems
+
+**Language:** Java
+
+⭐ 2 | 🍴 0
+
+Last updated: 03:20 3 May, 2025 (UTC)
+
+---
+
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 No description provided.
@@ -122,124 +276,6 @@ Last updated: 12:21 15 August, 2025 (UTC)
 
 ---
 
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
-
-My GitHub profile repository with custom README and configuration.
-
-**Language:** Markdown
-
-⭐ 0 | 🍴 0
-
-Last updated: 14:38 2 May, 2025 (UTC)
-
----
-
-#### [faq.clovetwilight3.co.uk](https://github.com/CloveTwilight3/faq.clovetwilight3.co.uk)
-
-A FAQ and About me page.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 01:21 18 August, 2025 (UTC)
-
----
-
-#### [websites](https://github.com/CloveTwilight3/websites)
-
-No description provided.
-
-⭐ 0 | 🍴 0
-
-Last updated: 18:10 24 August, 2025 (UTC)
-
----
-
-#### [clovetwilight3.co.uk](https://github.com/CloveTwilight3/clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:46 10 August, 2025 (UTC)
-
----
-
-#### [gaming.clovetwilight3.co.uk](https://github.com/CloveTwilight3/gaming.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:27 10 August, 2025 (UTC)
-
----
-
-#### [socials.clovetwilight3.co.uk](https://github.com/CloveTwilight3/socials.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 10:13 24 August, 2025 (UTC)
-
----
-
-#### [plural.clovetwilight3.co.uk](https://github.com/CloveTwilight3/plural.clovetwilight3.co.uk)
-
-A PluralKit website created for friends to see who's fronting my system 
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 20:28 24 August, 2025 (UTC)
-
----
-
-#### [Simple-Link-Hub-Template](https://github.com/CloveTwilight3/Simple-Link-Hub-Template)
-
-A template website for easy url buttons
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 14:43 24 August, 2025 (UTC)
-
----
-
-#### [JailPlugin](https://github.com/CloveTwilight3/JailPlugin)
-
-A simple jail plugin
-
-**Language:** Java
-
-⭐ 2 | 🍴 1
-
-Last updated: 10:22 1 July, 2025 (UTC)
-
----
-
-#### [Files](https://github.com/CloveTwilight3/Files)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 1
-
-Last updated: 20:45 14 August, 2025 (UTC)
-
----
-
 #### [Clove-Bot](https://github.com/CloveTwilight3/Clove-Bot)
 
 No description provided.
@@ -252,16 +288,6 @@ Last updated: 03:04 18 June, 2025 (UTC)
 
 ---
 
-#### [socialminecraft-discord-manager](https://github.com/CloveTwilight3/socialminecraft-discord-manager) [ARCHIVE]
-
-This is a fork of the Discord Manager I have helped contribute to. This is for archive reasons only!
-
-⭐ 0 | 🍴 0
-
-Last updated: 11:36 24 July, 2025 (UTC)
-
----
-
 #### [ValoPeaks](https://github.com/CloveTwilight3/ValoPeaks)
 
 A Valorant Info Bot (Basic)
@@ -271,42 +297,6 @@ A Valorant Info Bot (Basic)
 ⭐ 3 | 🍴 0
 
 Last updated: 00:51 21 August, 2025 (UTC)
-
----
-
-#### [end-stats](https://github.com/CloveTwilight3/end-stats)
-
-A basic end stats repo
-
-**Language:** Java
-
-⭐ 0 | 🍴 0
-
-Last updated: 10:25 20 August, 2025 (UTC)
-
----
-
-#### [Cloves-PluralCraft-Spigot](https://github.com/CloveTwilight3/Cloves-PluralCraft-Spigot)
-
-A Simple Plugin for Plural Systems
-
-**Language:** Java
-
-⭐ 2 | 🍴 0
-
-Last updated: 03:20 3 May, 2025 (UTC)
-
----
-
-#### [Cloves-PluralCraft](https://github.com/CloveTwilight3/Cloves-PluralCraft)
-
-A Fabric Mod for Systems
-
-**Language:** Java
-
-⭐ 2 | 🍴 0
-
-Last updated: 03:20 3 May, 2025 (UTC)
 
 ---
 
