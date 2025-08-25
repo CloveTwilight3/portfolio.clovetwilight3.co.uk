@@ -4,6 +4,30 @@
 
 ### Personal Projects
 
+#### [GitCommit](https://github.com/CloveTwilight3/GitCommit)
+
+No description provided.
+
+**Language:** PowerShell
+
+⭐ 0 | 🍴 0
+
+Last updated: 16:28 25 August, 2025 (UTC)
+
+---
+
+#### [Files](https://github.com/CloveTwilight3/Files)
+
+No description provided.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 1
+
+Last updated: 20:45 14 August, 2025 (UTC)
+
+---
+
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 No description provided.
@@ -13,16 +37,6 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 02:48 10 August, 2025 (UTC)
-
----
-
-#### [GitCommit](https://github.com/CloveTwilight3/GitCommit)
-
-No description provided.
-
-⭐ 0 | 🍴 0
-
-Last updated: 16:28 25 August, 2025 (UTC)
 
 ---
 
@@ -47,18 +61,6 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 16:18 25 August, 2025 (UTC)
-
----
-
-#### [Files](https://github.com/CloveTwilight3/Files)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 1
-
-Last updated: 20:45 14 August, 2025 (UTC)
 
 ---
 
