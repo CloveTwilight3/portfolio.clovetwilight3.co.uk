@@ -4,6 +4,124 @@
 
 ### Personal Projects
 
+#### [CloveLib](https://github.com/CloveTwilight3/CloveLib)
+
+A basic Library Plugin for Plugins
+
+⭐ 2 | 🍴 0
+
+Last updated: 03:20 3 May, 2025 (UTC)
+
+---
+
+#### [EMIS](https://github.com/CloveTwilight3/EMIS)
+
+This is a JARVIS like assistant for your desktop, working on Most Linux Distros and Windows
+
+**Language:** JavaScript
+
+⭐ 1 | 🍴 0
+
+Last updated: 00:35 27 May, 2025 (UTC)
+
+---
+
+#### [-socialminecraft-discord-manager](https://github.com/CloveTwilight3/-socialminecraft-discord-manager)
+
+No description provided.
+
+**Language:** TypeScript
+
+⭐ 1 | 🍴 0
+
+Last updated: 00:35 27 May, 2025 (UTC)
+
+---
+
+#### [clove-mailbox-custom](https://github.com/CloveTwilight3/clove-mailbox-custom)
+
+No description provided.
+
+**Language:** TypeScript
+
+⭐ 1 | 🍴 0
+
+Last updated: 08:50 28 May, 2025 (UTC)
+
+---
+
+#### [Clove-Pride-Reminders](https://github.com/CloveTwilight3/Clove-Pride-Reminders)
+
+No description provided.
+
+**Language:** TypeScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 18:32 21 June, 2025 (UTC)
+
+---
+
+#### [Minecraft-Whitelist-Discord-Bot](https://github.com/CloveTwilight3/Minecraft-Whitelist-Discord-Bot)
+
+a simple and efficient plugin for a Discord bot for managing the Minecraft server whitelist
+
+**Language:** Java
+
+⭐ 2 | 🍴 0
+
+Last updated: 17:44 28 April, 2025 (UTC)
+
+---
+
+#### [Medication-Bot](https://github.com/CloveTwilight3/Medication-Bot)
+
+No description provided.
+
+**Language:** TypeScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 21:29 20 July, 2025 (UTC)
+
+---
+
+#### [Estrocord](https://github.com/CloveTwilight3/Estrocord)
+
+A fun all-in-1 plugin
+
+**Language:** Java
+
+⭐ 1 | 🍴 0
+
+Last updated: 17:24 13 August, 2025 (UTC)
+
+---
+
+#### [Gaming-Themes](https://github.com/CloveTwilight3/Gaming-Themes)
+
+A few Vencord themes that are based on Popular Video Games
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 12:21 15 August, 2025 (UTC)
+
+---
+
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+
+My GitHub profile repository with custom README and configuration.
+
+**Language:** Markdown
+
+⭐ 0 | 🍴 0
+
+Last updated: 14:38 2 May, 2025 (UTC)
+
+---
+
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 No description provided.
@@ -25,18 +143,6 @@ A FAQ and About me page.
 ⭐ 0 | 🍴 0
 
 Last updated: 01:21 18 August, 2025 (UTC)
-
----
-
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
-
-My GitHub profile repository with custom README and configuration.
-
-**Language:** Markdown
-
-⭐ 0 | 🍴 0
-
-Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
@@ -122,18 +228,6 @@ Last updated: 10:22 1 July, 2025 (UTC)
 
 ---
 
-#### [Estrocord](https://github.com/CloveTwilight3/Estrocord)
-
-A fun all-in-1 plugin
-
-**Language:** Java
-
-⭐ 1 | 🍴 0
-
-Last updated: 17:24 13 August, 2025 (UTC)
-
----
-
 #### [Files](https://github.com/CloveTwilight3/Files)
 
 No description provided.
@@ -143,30 +237,6 @@ No description provided.
 ⭐ 0 | 🍴 1
 
 Last updated: 20:45 14 August, 2025 (UTC)
-
----
-
-#### [Clove-Pride-Reminders](https://github.com/CloveTwilight3/Clove-Pride-Reminders)
-
-No description provided.
-
-**Language:** TypeScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 18:32 21 June, 2025 (UTC)
-
----
-
-#### [Medication-Bot](https://github.com/CloveTwilight3/Medication-Bot)
-
-No description provided.
-
-**Language:** TypeScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 21:29 20 July, 2025 (UTC)
 
 ---
 
@@ -216,66 +286,6 @@ Last updated: 10:25 20 August, 2025 (UTC)
 
 ---
 
-#### [Gaming-Themes](https://github.com/CloveTwilight3/Gaming-Themes)
-
-A few Vencord themes that are based on Popular Video Games
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 12:21 15 August, 2025 (UTC)
-
----
-
-#### [Minecraft-Whitelist-Discord-Bot](https://github.com/CloveTwilight3/Minecraft-Whitelist-Discord-Bot)
-
-a simple and efficient plugin for a Discord bot for managing the Minecraft server whitelist
-
-**Language:** Java
-
-⭐ 2 | 🍴 0
-
-Last updated: 17:44 28 April, 2025 (UTC)
-
----
-
-#### [clove-mailbox-custom](https://github.com/CloveTwilight3/clove-mailbox-custom)
-
-No description provided.
-
-**Language:** TypeScript
-
-⭐ 1 | 🍴 0
-
-Last updated: 08:50 28 May, 2025 (UTC)
-
----
-
-#### [-socialminecraft-discord-manager](https://github.com/CloveTwilight3/-socialminecraft-discord-manager)
-
-No description provided.
-
-**Language:** TypeScript
-
-⭐ 1 | 🍴 0
-
-Last updated: 00:35 27 May, 2025 (UTC)
-
----
-
-#### [EMIS](https://github.com/CloveTwilight3/EMIS)
-
-This is a JARVIS like assistant for your desktop, working on Most Linux Distros and Windows
-
-**Language:** JavaScript
-
-⭐ 1 | 🍴 0
-
-Last updated: 00:35 27 May, 2025 (UTC)
-
----
-
 #### [Cloves-PluralCraft-Spigot](https://github.com/CloveTwilight3/Cloves-PluralCraft-Spigot)
 
 A Simple Plugin for Plural Systems
@@ -293,16 +303,6 @@ Last updated: 03:20 3 May, 2025 (UTC)
 A Fabric Mod for Systems
 
 **Language:** Java
-
-⭐ 2 | 🍴 0
-
-Last updated: 03:20 3 May, 2025 (UTC)
-
----
-
-#### [CloveLib](https://github.com/CloveTwilight3/CloveLib)
-
-A basic Library Plugin for Plugins
 
 ⭐ 2 | 🍴 0
 
