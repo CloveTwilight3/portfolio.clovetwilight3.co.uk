@@ -4,15 +4,15 @@
 
 ### Personal Projects
 
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+#### [GitCommit](https://github.com/CloveTwilight3/GitCommit)
 
 No description provided.
 
-**Language:** JavaScript
+**Language:** PowerShell
 
 ⭐ 0 | 🍴 0
 
-Last updated: 02:48 10 August, 2025 (UTC)
+Last updated: 16:28 25 August, 2025 (UTC)
 
 ---
 
@@ -28,15 +28,15 @@ Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
-#### [GitCommit](https://github.com/CloveTwilight3/GitCommit)
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 No description provided.
 
-**Language:** PowerShell
+**Language:** JavaScript
 
 ⭐ 0 | 🍴 0
 
-Last updated: 16:28 25 August, 2025 (UTC)
+Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
