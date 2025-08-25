@@ -4,6 +4,18 @@
 
 ### Personal Projects
 
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
 #### [end-stats](https://github.com/CloveTwilight3/end-stats)
 
 A basic end stats repo
@@ -155,18 +167,6 @@ A Fabric Mod for Systems
 ⭐ 2 | 🍴 0
 
 Last updated: 03:20 3 May, 2025 (UTC)
-
----
-
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
