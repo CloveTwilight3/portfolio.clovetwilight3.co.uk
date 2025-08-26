@@ -15,7 +15,7 @@ on:
 # Add permissions for the GITHUB_TOKEN
 permissions:
   contents: write  # Needed to push commits
-  metadata: read   # Needed to read repository metadata
+  actions: read    # Needed to read workflow information
 
 jobs:
   update-portfolio:
