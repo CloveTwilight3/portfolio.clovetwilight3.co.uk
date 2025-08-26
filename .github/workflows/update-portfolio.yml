@@ -137,7 +137,7 @@ jobs:
         run: |
           # Remove node_modules and package files created during the workflow
           rm -rf node_modules/
-          rm -f package.json package-lock.json
+          rm -f package.json package-lock.json .resume-cache.json .avatar-cache.json custom_resume.pdf favicon.png
           
           # Remove any npm debug logs
           rm -f npm-debug.log* .npm/_logs/*
