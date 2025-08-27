@@ -4,40 +4,6 @@
 
 ### Personal Projects
 
-#### [websites](https://github.com/CloveTwilight3/websites)
-
-All my public websites!
-
-⭐ 0 | 🍴 0
-
-Last updated: 18:10 24 August, 2025 (UTC)
-
----
-
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:48 10 August, 2025 (UTC)
-
----
-
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
-
-My GitHub profile repository with custom README and configuration.
-
-**Language:** Markdown
-
-⭐ 0 | 🍴 0
-
-Last updated: 14:38 2 May, 2025 (UTC)
-
----
-
 #### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
 
 A PluralKit website created for friends to see who's fronting my system 
@@ -59,6 +25,52 @@ This is a JARVIS like assistant for your desktop, working on Most Linux Distros 
 ⭐ 1 | 🍴 0
 
 Last updated: 00:35 27 May, 2025 (UTC)
+
+---
+
+#### [websites](https://github.com/CloveTwilight3/websites)
+
+All my public websites!
+
+⭐ 0 | 🍴 0
+
+Last updated: 18:10 24 August, 2025 (UTC)
+
+---
+
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+
+My GitHub profile repository with custom README and configuration.
+
+**Language:** Markdown
+
+⭐ 0 | 🍴 0
+
+Last updated: 14:38 2 May, 2025 (UTC)
+
+---
+
+#### [clovetwilight3.co.uk](https://github.com/CloveTwilight3/clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:46 10 August, 2025 (UTC)
+
+---
+
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
@@ -199,18 +211,6 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 10:13 24 August, 2025 (UTC)
-
----
-
-#### [clovetwilight3.co.uk](https://github.com/CloveTwilight3/clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:46 10 August, 2025 (UTC)
 
 ---
 
