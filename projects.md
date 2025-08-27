@@ -4,6 +4,18 @@
 
 ### Personal Projects
 
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
 #### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
 
 A PluralKit website created for friends to see who's fronting my system 
@@ -59,18 +71,6 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 02:46 10 August, 2025 (UTC)
-
----
-
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
