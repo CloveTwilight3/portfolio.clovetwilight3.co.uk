@@ -14,6 +14,30 @@ Last updated: 18:10 24 August, 2025 (UTC)
 
 ---
 
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+
+My GitHub profile repository with custom README and configuration.
+
+**Language:** Markdown
+
+⭐ 0 | 🍴 0
+
+Last updated: 14:38 2 May, 2025 (UTC)
+
+---
+
+#### [Files](https://github.com/CloveTwilight3/Files)
+
+No description provided.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 1
+
+Last updated: 20:45 14 August, 2025 (UTC)
+
+---
+
 #### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
 
 A PluralKit website created for friends to see who's fronting my system 
@@ -35,18 +59,6 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 02:48 10 August, 2025 (UTC)
-
----
-
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
-
-My GitHub profile repository with custom README and configuration.
-
-**Language:** Markdown
-
-⭐ 0 | 🍴 0
-
-Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
@@ -107,18 +119,6 @@ GitCommit is an automated Git workflow tool that simplifies the process of commi
 ⭐ 0 | 🍴 0
 
 Last updated: 16:28 25 August, 2025 (UTC)
-
----
-
-#### [Files](https://github.com/CloveTwilight3/Files)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 1
-
-Last updated: 20:45 14 August, 2025 (UTC)
 
 ---
 
