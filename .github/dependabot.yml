@@ -1,23 +1,13 @@
 version: 2
 updates:
-  # GitHub Actions workflows
+  # GitHub Actions workflows only
   - package-ecosystem: "github-actions"
     directory: "/.github/workflows"
     schedule:
-      interval: "daily"
+      interval: "weekly"
+      day: "monday"
       time: "09:00"
     open-pull-requests-limit: 5
     commit-message:
       prefix: "ci"
-      include: "scope"
-
-  # JavaScript scripts in .github/scripts
-  - package-ecosystem: "npm"
-    directory: "/.github/scripts"
-    schedule:
-      interval: "daily"
-      time: "10:00"
-    open-pull-requests-limit: 3
-    commit-message:
-      prefix: "scripts"
       include: "scope"
