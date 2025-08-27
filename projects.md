@@ -4,6 +4,16 @@
 
 ### Personal Projects
 
+#### [websites](https://github.com/CloveTwilight3/websites)
+
+All my public websites!
+
+⭐ 0 | 🍴 0
+
+Last updated: 18:10 24 August, 2025 (UTC)
+
+---
+
 #### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
 
 A PluralKit website created for friends to see who's fronting my system 
@@ -13,16 +23,6 @@ A PluralKit website created for friends to see who's fronting my system
 ⭐ 0 | 🍴 0
 
 Last updated: 22:49 26 August, 2025 (UTC)
-
----
-
-#### [websites](https://github.com/CloveTwilight3/websites)
-
-All my public websites!
-
-⭐ 0 | 🍴 0
-
-Last updated: 18:10 24 August, 2025 (UTC)
 
 ---
 
