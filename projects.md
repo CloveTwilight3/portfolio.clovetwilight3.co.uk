@@ -4,6 +4,18 @@
 
 ### Personal Projects
 
+#### [GitCommit](https://github.com/CloveTwilight3/GitCommit)
+
+GitCommit is an automated Git workflow tool that simplifies the process of committing and pushing changes to your Git repositories. It handles the entire workflow: switching to main branch, pulling latest changes, adding files, committing with your message, and pushing to origin.
+
+**Language:** PowerShell
+
+⭐ 0 | 🍴 0
+
+Last updated: 16:28 25 August, 2025 (UTC)
+
+---
+
 #### [websites](https://github.com/CloveTwilight3/websites)
 
 All my public websites!
@@ -11,6 +23,18 @@ All my public websites!
 ⭐ 0 | 🍴 0
 
 Last updated: 18:10 24 August, 2025 (UTC)
+
+---
+
+#### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
+
+A PluralKit website created for friends to see who's fronting my system 
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 22:49 26 August, 2025 (UTC)
 
 ---
 
@@ -35,18 +59,6 @@ My GitHub profile repository with custom README and configuration.
 ⭐ 0 | 🍴 0
 
 Last updated: 14:38 2 May, 2025 (UTC)
-
----
-
-#### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
-
-A PluralKit website created for friends to see who's fronting my system 
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 22:49 26 August, 2025 (UTC)
 
 ---
 
@@ -107,18 +119,6 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 02:46 10 August, 2025 (UTC)
-
----
-
-#### [GitCommit](https://github.com/CloveTwilight3/GitCommit)
-
-GitCommit is an automated Git workflow tool that simplifies the process of committing and pushing changes to your Git repositories. It handles the entire workflow: switching to main branch, pulling latest changes, adding files, committing with your message, and pushing to origin.
-
-**Language:** PowerShell
-
-⭐ 0 | 🍴 0
-
-Last updated: 16:28 25 August, 2025 (UTC)
 
 ---
 
