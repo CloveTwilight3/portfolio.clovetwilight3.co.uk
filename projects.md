@@ -4,6 +4,28 @@
 
 ### Personal Projects
 
+#### [websites](https://github.com/CloveTwilight3/websites)
+
+All my public websites!
+
+⭐ 0 | 🍴 0
+
+Last updated: 18:10 24 August, 2025 (UTC)
+
+---
+
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
 #### [EMIS](https://github.com/CloveTwilight3/EMIS)
 
 This is a JARVIS like assistant for your desktop, working on Most Linux Distros and Windows
@@ -84,16 +106,6 @@ Last updated: 03:20 3 May, 2025 (UTC)
 
 ---
 
-#### [websites](https://github.com/CloveTwilight3/websites)
-
-All my public websites!
-
-⭐ 0 | 🍴 0
-
-Last updated: 18:10 24 August, 2025 (UTC)
-
----
-
 #### [Minecraft-Whitelist-Discord-Bot](https://github.com/CloveTwilight3/Minecraft-Whitelist-Discord-Bot)
 
 a simple and efficient plugin for a Discord bot for managing the Minecraft server whitelist
@@ -127,18 +139,6 @@ GitCommit is an automated Git workflow tool that simplifies the process of commi
 ⭐ 0 | 🍴 0
 
 Last updated: 16:28 25 August, 2025 (UTC)
-
----
-
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
