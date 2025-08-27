@@ -1,32 +1,32 @@
 /* Comic Code declarations */
 @font-face {
     font-family: 'Comic Code';
-    src: url('https://plural.clovetwilight3.co.uk/fonts/ComicCode-Regular_2022-05-24-151938_hsmz.woff2') format('woff2'),
-         url('https://plural.clovetwilight3.co.uk/fonts/ComicCode-Regular_2022-05-24-151938_hsmz.woff') format('woff');
+    src: url('https://www.doughmination.win/fonts/ComicCode-Regular_2022-05-24-151938_hsmz.woff2') format('woff2'),
+         url('https://www.doughmination.win/fonts/ComicCode-Regular_2022-05-24-151938_hsmz.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Comic Code';
-    src: url('https://plural.clovetwilight3.co.uk/fonts/ComicCode-Italic_2022-05-24-151939_rdtu.woff2') format('woff2'),
-         url('https://plural.clovetwilight3.co.uk/fonts/ComicCode-Italic_2022-05-24-151939_rdtu.woff') format('woff');
+    src: url('https://www.doughmination.win/fonts/ComicCode-Italic_2022-05-24-151939_rdtu.woff2') format('woff2'),
+         url('https://www.doughmination.win/fonts/ComicCode-Italic_2022-05-24-151939_rdtu.woff') format('woff');
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Comic Code';
-    src: url('https://plural.clovetwilight3.co.uk/fonts/ComicCode-Medium_2022-05-24-151941_ugqm.woff2') format('woff2'),
-         url('https://plural.clovetwilight3.co.uk/fonts/ComicCode-Medium_2022-05-24-151941_ugqm.woff') format('woff');
+    src: url('https://www.doughmination.win/fonts/ComicCode-Medium_2022-05-24-151941_ugqm.woff2') format('woff2'),
+         url('https://www.doughmination.win/fonts/ComicCode-Medium_2022-05-24-151941_ugqm.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Comic Code';
-    src: url('https://plural.clovetwilight3.co.uk/fonts/ComicCode-Bold_2022-05-24-152309_zqkm.woff2') format('woff2'),
-         url('https://plural.clovetwilight3.co.uk/fonts/ComicCode-Bold_2022-05-24-152309_zqkm.woff') format('woff');
+    src: url('https://www.doughmination.win/fonts/ComicCode-Bold_2022-05-24-152309_zqkm.woff2') format('woff2'),
+         url('https://www.doughmination.win/fonts/ComicCode-Bold_2022-05-24-152309_zqkm.woff') format('woff');
     font-weight: 700;
     font-style: normal;
 }
