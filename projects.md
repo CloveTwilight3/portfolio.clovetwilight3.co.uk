@@ -4,6 +4,30 @@
 
 ### Personal Projects
 
+#### [www.clovetwilight3.co.uk](https://github.com/CloveTwilight3/www.clovetwilight3.co.uk)
+
+My Main website
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 18:40 28 August, 2025 (UTC)
+
+---
+
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
 #### [socials.clovetwilight3.co.uk](https://github.com/CloveTwilight3/socials.clovetwilight3.co.uk)
 
 No description provided.
@@ -28,18 +52,6 @@ Last updated: 02:27 10 August, 2025 (UTC)
 
 ---
 
-#### [www.clovetwilight3.co.uk](https://github.com/CloveTwilight3/www.clovetwilight3.co.uk)
-
-A FAQ and About me page.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 18:40 28 August, 2025 (UTC)
-
----
-
 #### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
 
 My GitHub profile repository with custom README and configuration.
@@ -49,18 +61,6 @@ My GitHub profile repository with custom README and configuration.
 ⭐ 0 | 🍴 0
 
 Last updated: 14:38 2 May, 2025 (UTC)
-
----
-
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
