@@ -16,15 +16,15 @@ Last updated: 18:40 28 August, 2025 (UTC)
 
 ---
 
-#### [EMIS](https://github.com/CloveTwilight3/EMIS)
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
 
-This is a JARVIS like assistant for your desktop, working on Most Linux Distros and Windows
+My GitHub profile repository with custom README and configuration.
 
-**Language:** JavaScript
+**Language:** Markdown
 
-⭐ 1 | 🍴 0
+⭐ 0 | 🍴 0
 
-Last updated: 00:35 27 May, 2025 (UTC)
+Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
@@ -40,15 +40,15 @@ Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+#### [EMIS](https://github.com/CloveTwilight3/EMIS)
 
-My GitHub profile repository with custom README and configuration.
+This is a JARVIS like assistant for your desktop, working on Most Linux Distros and Windows
 
-**Language:** Markdown
+**Language:** JavaScript
 
-⭐ 0 | 🍴 0
+⭐ 1 | 🍴 0
 
-Last updated: 14:38 2 May, 2025 (UTC)
+Last updated: 00:35 27 May, 2025 (UTC)
 
 ---
 
