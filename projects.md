@@ -4,15 +4,13 @@
 
 ### Personal Projects
 
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+#### [websites](https://github.com/CloveTwilight3/websites)
 
-My GitHub profile repository with custom README and configuration.
-
-**Language:** Markdown
+All my public websites!
 
 ⭐ 0 | 🍴 0
 
-Last updated: 14:38 2 May, 2025 (UTC)
+Last updated: 18:10 24 August, 2025 (UTC)
 
 ---
 
@@ -28,13 +26,15 @@ Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
-#### [websites](https://github.com/CloveTwilight3/websites)
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
 
-All my public websites!
+My GitHub profile repository with custom README and configuration.
+
+**Language:** Markdown
 
 ⭐ 0 | 🍴 0
 
-Last updated: 18:10 24 August, 2025 (UTC)
+Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
