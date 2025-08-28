@@ -4,25 +4,39 @@
 
 ### Personal Projects
 
-#### [websites](https://github.com/CloveTwilight3/websites)
-
-All my public websites!
-
-⭐ 0 | 🍴 0
-
-Last updated: 18:10 24 August, 2025 (UTC)
-
----
-
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+#### [socials.clovetwilight3.co.uk](https://github.com/CloveTwilight3/socials.clovetwilight3.co.uk)
 
 No description provided.
 
-**Language:** JavaScript
+**Language:** CSS
 
 ⭐ 0 | 🍴 0
 
-Last updated: 02:48 10 August, 2025 (UTC)
+Last updated: 10:13 24 August, 2025 (UTC)
+
+---
+
+#### [gaming.clovetwilight3.co.uk](https://github.com/CloveTwilight3/gaming.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:27 10 August, 2025 (UTC)
+
+---
+
+#### [www.clovetwilight3.co.uk](https://github.com/CloveTwilight3/www.clovetwilight3.co.uk)
+
+A FAQ and About me page.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 18:40 28 August, 2025 (UTC)
 
 ---
 
@@ -35,6 +49,18 @@ My GitHub profile repository with custom README and configuration.
 ⭐ 0 | 🍴 0
 
 Last updated: 14:38 2 May, 2025 (UTC)
+
+---
+
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
@@ -108,18 +134,6 @@ Last updated: 00:35 27 May, 2025 (UTC)
 
 ---
 
-#### [clovetwilight3.co.uk](https://github.com/CloveTwilight3/clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:46 10 August, 2025 (UTC)
-
----
-
 #### [end-stats](https://github.com/CloveTwilight3/end-stats)
 
 A basic end stats repo
@@ -187,42 +201,6 @@ No description provided.
 ⭐ 0 | 🍴 1
 
 Last updated: 20:45 14 August, 2025 (UTC)
-
----
-
-#### [faq.clovetwilight3.co.uk](https://github.com/CloveTwilight3/faq.clovetwilight3.co.uk)
-
-A FAQ and About me page.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 01:21 18 August, 2025 (UTC)
-
----
-
-#### [gaming.clovetwilight3.co.uk](https://github.com/CloveTwilight3/gaming.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:27 10 August, 2025 (UTC)
-
----
-
-#### [socials.clovetwilight3.co.uk](https://github.com/CloveTwilight3/socials.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 10:13 24 August, 2025 (UTC)
 
 ---
 
@@ -319,6 +297,18 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 03:04 18 June, 2025 (UTC)
+
+---
+
+#### [ValoPeaks](https://github.com/CloveTwilight3/ValoPeaks)
+
+A Valorant Info Bot (Basic)
+
+**Language:** TypeScript
+
+⭐ 3 | 🍴 0
+
+Last updated: 00:51 21 August, 2025 (UTC)
 
 ---
 
