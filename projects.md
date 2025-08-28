@@ -4,7 +4,7 @@
 
 ### Personal Projects
 
-#### [git.clovetwilight3.co.uk](https://github.com/CloveTwilight3/git.clovetwilight3.co.uk)
+#### [npcs.clovetwilight3.co.uk](https://github.com/CloveTwilight3/npcs.clovetwilight3.co.uk)
 
 No description provided.
 
@@ -12,19 +12,17 @@ No description provided.
 
 ⭐ 0 | 🍴 0
 
-Last updated: 14:37 28 August, 2025 (UTC)
+Last updated: 14:42 28 August, 2025 (UTC)
 
 ---
 
-#### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
+#### [websites](https://github.com/CloveTwilight3/websites)
 
-A PluralKit website created for friends to see who's fronting my system 
+All my public websites!
 
-**Language:** JavaScript
+⭐ 0 | 🍴 0
 
-⭐ 0 | 🍴 1
-
-Last updated: 22:49 26 August, 2025 (UTC)
+Last updated: 18:10 24 August, 2025 (UTC)
 
 ---
 
@@ -40,13 +38,15 @@ Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
-#### [websites](https://github.com/CloveTwilight3/websites)
+#### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
 
-All my public websites!
+A PluralKit website created for friends to see who's fronting my system 
 
-⭐ 0 | 🍴 0
+**Language:** JavaScript
 
-Last updated: 18:10 24 August, 2025 (UTC)
+⭐ 0 | 🍴 1
+
+Last updated: 22:49 26 August, 2025 (UTC)
 
 ---
 
