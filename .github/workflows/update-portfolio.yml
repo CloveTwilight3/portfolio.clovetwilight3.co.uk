@@ -153,7 +153,7 @@ jobs:
         if: steps.check_changes.outputs.has_updates == 'true' || github.event_name != 'schedule'
         run: |
           git config --global user.name 'Clove Twilight [BOT]'
-          git config --global user.email '193822784+CloveTwilightBOT@users.noreply.github.com'
+          git config --global user.email 'noreply@clovetwilight3.co.uk'
           
           # Make sure we don't commit the temporary files that were cleaned up
           git add -A
