@@ -16,18 +16,6 @@ Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
-#### [EndRace](https://github.com/CloveTwilight3/EndRace)
-
-No description provided.
-
-**Language:** Java
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:26 30 August, 2025 (UTC)
-
----
-
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 No description provided.
@@ -37,6 +25,18 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
+#### [EndRace](https://github.com/CloveTwilight3/EndRace)
+
+No description provided.
+
+**Language:** Java
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:26 30 August, 2025 (UTC)
 
 ---
 
