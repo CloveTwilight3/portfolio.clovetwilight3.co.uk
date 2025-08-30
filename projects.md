@@ -4,6 +4,18 @@
 
 ### Personal Projects
 
+#### [www.clovetwilight3.co.uk](https://github.com/CloveTwilight3/www.clovetwilight3.co.uk)
+
+My Main website
+
+**Language:** HTML
+
+⭐ 0 | 🍴 0
+
+Last updated: 18:40 28 August, 2025 (UTC)
+
+---
+
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 No description provided.
@@ -49,18 +61,6 @@ A PluralKit website created for friends to see who's fronting my system
 ⭐ 0 | 🍴 1
 
 Last updated: 22:49 26 August, 2025 (UTC)
-
----
-
-#### [www.clovetwilight3.co.uk](https://github.com/CloveTwilight3/www.clovetwilight3.co.uk)
-
-My Main website
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 18:40 28 August, 2025 (UTC)
 
 ---
 
