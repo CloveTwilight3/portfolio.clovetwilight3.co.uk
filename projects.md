@@ -4,15 +4,15 @@
 
 ### Personal Projects
 
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
 
-No description provided.
+My GitHub profile repository with custom README and configuration.
 
-**Language:** JavaScript
+**Language:** Markdown
 
 ⭐ 0 | 🍴 0
 
-Last updated: 02:48 10 August, 2025 (UTC)
+Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
@@ -28,6 +28,18 @@ Last updated: 22:49 26 August, 2025 (UTC)
 
 ---
 
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
 #### [gaming](https://github.com/CloveTwilight3/gaming)
 
 My Gaming Links Website
@@ -37,18 +49,6 @@ My Gaming Links Website
 ⭐ 0 | 🍴 0
 
 Last updated: 09:15 31 August, 2025 (UTC)
-
----
-
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
-
-My GitHub profile repository with custom README and configuration.
-
-**Language:** Markdown
-
-⭐ 0 | 🍴 0
-
-Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
