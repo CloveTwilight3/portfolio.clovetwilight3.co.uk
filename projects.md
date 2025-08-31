@@ -4,6 +4,18 @@
 
 ### Personal Projects
 
+#### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
+
+A PluralKit website created for friends to see who's fronting my system 
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 1
+
+Last updated: 22:49 26 August, 2025 (UTC)
+
+---
+
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 No description provided.
@@ -73,18 +85,6 @@ A simple jail plugin
 ⭐ 2 | 🍴 1
 
 Last updated: 10:22 1 July, 2025 (UTC)
-
----
-
-#### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
-
-A PluralKit website created for friends to see who's fronting my system 
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 1
-
-Last updated: 22:49 26 August, 2025 (UTC)
 
 ---
 
