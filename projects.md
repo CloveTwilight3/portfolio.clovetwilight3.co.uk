@@ -4,15 +4,15 @@
 
 ### Personal Projects
 
-#### [npcs](https://github.com/CloveTwilight3/npcs)
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 No description provided.
 
-**Language:** CSS
+**Language:** JavaScript
 
 ⭐ 0 | 🍴 0
 
-Last updated: 09:23 31 August, 2025 (UTC)
+Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
@@ -37,18 +37,6 @@ My Gaming Links Website
 ⭐ 0 | 🍴 0
 
 Last updated: 09:15 31 August, 2025 (UTC)
-
----
-
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
