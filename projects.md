@@ -4,27 +4,63 @@
 
 ### Personal Projects
 
-#### [www.clovetwilight3.co.uk](https://github.com/CloveTwilight3/www.clovetwilight3.co.uk)
+#### [Simple-Link-Hub-Template](https://github.com/CloveTwilight3/Simple-Link-Hub-Template)
 
-My Main website
+A template website for easy url buttons
 
-**Language:** HTML
+**Language:** CSS
 
 ⭐ 0 | 🍴 0
 
-Last updated: 18:40 28 August, 2025 (UTC)
+Last updated: 14:43 24 August, 2025 (UTC)
 
 ---
 
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+#### [JailPlugin](https://github.com/CloveTwilight3/JailPlugin)
+
+A simple jail plugin
+
+**Language:** Java
+
+⭐ 2 | 🍴 1
+
+Last updated: 10:22 1 July, 2025 (UTC)
+
+---
+
+#### [gaming.clovetwilight3.co.uk](https://github.com/CloveTwilight3/gaming.clovetwilight3.co.uk)
 
 No description provided.
 
-**Language:** JavaScript
+**Language:** CSS
 
 ⭐ 0 | 🍴 0
 
-Last updated: 02:48 10 August, 2025 (UTC)
+Last updated: 02:27 10 August, 2025 (UTC)
+
+---
+
+#### [socials.clovetwilight3.co.uk](https://github.com/CloveTwilight3/socials.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 10:13 24 August, 2025 (UTC)
+
+---
+
+#### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
+
+A PluralKit website created for friends to see who's fronting my system 
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 1
+
+Last updated: 22:49 26 August, 2025 (UTC)
 
 ---
 
@@ -40,6 +76,30 @@ Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
+#### [www.clovetwilight3.co.uk](https://github.com/CloveTwilight3/www.clovetwilight3.co.uk)
+
+My Main website
+
+**Language:** HTML
+
+⭐ 0 | 🍴 0
+
+Last updated: 18:40 28 August, 2025 (UTC)
+
+---
+
 #### [Estrocord](https://github.com/CloveTwilight3/Estrocord)
 
 A fun all-in-1 plugin
@@ -49,18 +109,6 @@ A fun all-in-1 plugin
 ⭐ 1 | 🍴 0
 
 Last updated: 17:24 13 August, 2025 (UTC)
-
----
-
-#### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
-
-A PluralKit website created for friends to see who's fronting my system 
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 1
-
-Last updated: 22:49 26 August, 2025 (UTC)
 
 ---
 
@@ -88,30 +136,6 @@ Last updated: 00:35 27 May, 2025 (UTC)
 
 ---
 
-#### [socials.clovetwilight3.co.uk](https://github.com/CloveTwilight3/socials.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 10:13 24 August, 2025 (UTC)
-
----
-
-#### [gaming.clovetwilight3.co.uk](https://github.com/CloveTwilight3/gaming.clovetwilight3.co.uk)
-
-No description provided.
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:27 10 August, 2025 (UTC)
-
----
-
 #### [npcs.clovetwilight3.co.uk](https://github.com/CloveTwilight3/npcs.clovetwilight3.co.uk)
 
 No description provided.
@@ -121,18 +145,6 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 14:42 28 August, 2025 (UTC)
-
----
-
-#### [JailPlugin](https://github.com/CloveTwilight3/JailPlugin)
-
-A simple jail plugin
-
-**Language:** Java
-
-⭐ 2 | 🍴 1
-
-Last updated: 10:22 1 July, 2025 (UTC)
 
 ---
 
@@ -225,18 +237,6 @@ A few Vencord themes that are based on Popular Video Games
 ⭐ 0 | 🍴 0
 
 Last updated: 12:21 15 August, 2025 (UTC)
-
----
-
-#### [Simple-Link-Hub-Template](https://github.com/CloveTwilight3/Simple-Link-Hub-Template)
-
-A template website for easy url buttons
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 14:43 24 August, 2025 (UTC)
 
 ---
 
