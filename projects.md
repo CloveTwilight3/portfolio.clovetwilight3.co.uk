@@ -4,15 +4,15 @@
 
 ### Personal Projects
 
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+#### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
 
-My GitHub profile repository with custom README and configuration.
+A PluralKit website created for friends to see who's fronting my system 
 
-**Language:** Markdown
+**Language:** JavaScript
 
-⭐ 0 | 🍴 0
+⭐ 0 | 🍴 1
 
-Last updated: 14:38 2 May, 2025 (UTC)
+Last updated: 22:49 26 August, 2025 (UTC)
 
 ---
 
@@ -28,15 +28,15 @@ Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
-#### [doughmination.win](https://github.com/CloveTwilight3/doughmination.win)
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
 
-A PluralKit website created for friends to see who's fronting my system 
+My GitHub profile repository with custom README and configuration.
 
-**Language:** JavaScript
+**Language:** Markdown
 
-⭐ 0 | 🍴 1
+⭐ 0 | 🍴 0
 
-Last updated: 22:49 26 August, 2025 (UTC)
+Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
