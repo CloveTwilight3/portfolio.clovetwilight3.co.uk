@@ -4,18 +4,6 @@
 
 ### Personal Projects
 
-#### [trans4trans](https://github.com/CloveTwilight3/trans4trans)
-
-No description provided.
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:01 3 September, 2025 (UTC)
-
----
-
 #### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
 
 My GitHub profile repository with custom README and configuration.
@@ -25,6 +13,18 @@ My GitHub profile repository with custom README and configuration.
 ⭐ 0 | 🍴 0
 
 Last updated: 14:38 2 May, 2025 (UTC)
+
+---
+
+#### [trans4trans](https://github.com/CloveTwilight3/trans4trans)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:01 3 September, 2025 (UTC)
 
 ---
 
