@@ -4,18 +4,6 @@
 
 ### Personal Projects
 
-#### [trans4trans](https://github.com/CloveTwilight3/trans4trans)
-
-No description provided.
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:01 3 September, 2025 (UTC)
-
----
-
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 My porfolio website
@@ -25,6 +13,18 @@ My porfolio website
 ⭐ 0 | 🍴 0
 
 Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
+#### [trans4trans](https://github.com/CloveTwilight3/trans4trans)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:01 3 September, 2025 (UTC)
 
 ---
 
