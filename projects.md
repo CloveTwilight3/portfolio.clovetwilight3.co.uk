@@ -4,6 +4,18 @@
 
 ### Personal Projects
 
+#### [butterfly-network](https://github.com/CloveTwilight3/butterfly-network)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 00:03 3 September, 2025 (UTC)
+
+---
+
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 My porfolio website
