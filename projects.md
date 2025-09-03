@@ -4,15 +4,15 @@
 
 ### Personal Projects
 
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
 
-My porfolio website
+My GitHub profile repository with custom README and configuration.
 
-**Language:** JavaScript
+**Language:** Markdown
 
 ⭐ 0 | 🍴 0
 
-Last updated: 02:48 10 August, 2025 (UTC)
+Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
@@ -28,15 +28,15 @@ Last updated: 02:01 3 September, 2025 (UTC)
 
 ---
 
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
-My GitHub profile repository with custom README and configuration.
+My porfolio website
 
-**Language:** Markdown
+**Language:** JavaScript
 
 ⭐ 0 | 🍴 0
 
-Last updated: 14:38 2 May, 2025 (UTC)
+Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
