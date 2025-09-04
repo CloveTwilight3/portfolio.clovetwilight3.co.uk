@@ -4,15 +4,15 @@
 
 ### Personal Projects
 
-#### [lgbwitht](https://github.com/CloveTwilight3/lgbwitht)
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
 
-Social Media
+My GitHub profile repository with custom README and configuration.
 
-**Language:** CSS
+**Language:** Markdown
 
 ⭐ 0 | 🍴 0
 
-Last updated: 20:56 4 September, 2025 (UTC)
+Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
@@ -28,15 +28,15 @@ Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+#### [lgbwitht](https://github.com/CloveTwilight3/lgbwitht)
 
-My GitHub profile repository with custom README and configuration.
+Social Media
 
-**Language:** Markdown
+**Language:** CSS
 
 ⭐ 0 | 🍴 0
 
-Last updated: 14:38 2 May, 2025 (UTC)
+Last updated: 20:56 4 September, 2025 (UTC)
 
 ---
 
