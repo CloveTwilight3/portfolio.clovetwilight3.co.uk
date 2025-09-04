@@ -4,6 +4,18 @@
 
 ### Personal Projects
 
+#### [lgbwitht](https://github.com/CloveTwilight3/lgbwitht)
+
+Social Media
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 20:56 4 September, 2025 (UTC)
+
+---
+
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 My porfolio website
@@ -25,18 +37,6 @@ My GitHub profile repository with custom README and configuration.
 ⭐ 0 | 🍴 0
 
 Last updated: 14:38 2 May, 2025 (UTC)
-
----
-
-#### [socials](https://github.com/CloveTwilight3/socials)
-
-Social Media
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 15:45 4 September, 2025 (UTC)
 
 ---
 
