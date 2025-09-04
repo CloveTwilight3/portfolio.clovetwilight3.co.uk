@@ -4,18 +4,6 @@
 
 ### Personal Projects
 
-#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
-
-My porfolio website
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 02:48 10 August, 2025 (UTC)
-
----
-
 #### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
 
 My GitHub profile repository with custom README and configuration.
@@ -25,6 +13,30 @@ My GitHub profile repository with custom README and configuration.
 ⭐ 0 | 🍴 0
 
 Last updated: 14:38 2 May, 2025 (UTC)
+
+---
+
+#### [gaming](https://github.com/CloveTwilight3/gaming)
+
+My Gaming Links Website
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 09:15 31 August, 2025 (UTC)
+
+---
+
+#### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
+
+My porfolio website
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 02:48 10 August, 2025 (UTC)
 
 ---
 
@@ -71,18 +83,6 @@ mii creator app
 ⭐ 0 | 🍴 0
 
 Last updated: 12:10 1 September, 2025 (UTC)
-
----
-
-#### [gaming](https://github.com/CloveTwilight3/gaming)
-
-My Gaming Links Website
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 09:15 31 August, 2025 (UTC)
 
 ---
 
