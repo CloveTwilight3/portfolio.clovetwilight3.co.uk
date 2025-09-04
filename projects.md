@@ -4,6 +4,54 @@
 
 ### Personal Projects
 
+#### [socials](https://github.com/CloveTwilight3/socials)
+
+Social Media
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 15:45 4 September, 2025 (UTC)
+
+---
+
+#### [yaoi-lover](https://github.com/CloveTwilight3/yaoi-lover)
+
+My Useful Cheatsheets for daily use
+
+**Language:** HTML
+
+⭐ 0 | 🍴 0
+
+Last updated: 15:44 4 September, 2025 (UTC)
+
+---
+
+#### [yuri-lover](https://github.com/CloveTwilight3/yuri-lover)
+
+My file system
+
+**Language:** CSS
+
+⭐ 0 | 🍴 0
+
+Last updated: 15:42 4 September, 2025 (UTC)
+
+---
+
+#### [www](https://github.com/CloveTwilight3/www)
+
+My Main website
+
+**Language:** HTML
+
+⭐ 0 | 🍴 0
+
+Last updated: 15:42 4 September, 2025 (UTC)
+
+---
+
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 My porfolio website
@@ -283,30 +331,6 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 21:29 20 July, 2025 (UTC)
-
----
-
-#### [Clove-Bot](https://github.com/CloveTwilight3/Clove-Bot)
-
-No description provided.
-
-**Language:** TypeScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 03:04 18 June, 2025 (UTC)
-
----
-
-#### [ValoPeaks](https://github.com/CloveTwilight3/ValoPeaks)
-
-A Valorant Info Bot (Basic)
-
-**Language:** TypeScript
-
-⭐ 3 | 🍴 0
-
-Last updated: 00:51 21 August, 2025 (UTC)
 
 ---
 
