@@ -4,15 +4,15 @@
 
 ### Personal Projects
 
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+#### [end-stats](https://github.com/CloveTwilight3/end-stats)
 
-My GitHub profile repository with custom README and configuration.
+A basic end stats repo
 
-**Language:** Markdown
+**Language:** Java
 
 ⭐ 0 | 🍴 0
 
-Last updated: 14:38 2 May, 2025 (UTC)
+Last updated: 10:25 20 August, 2025 (UTC)
 
 ---
 
@@ -25,6 +25,18 @@ My porfolio website
 ⭐ 0 | 🍴 0
 
 Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+
+My GitHub profile repository with custom README and configuration.
+
+**Language:** Markdown
+
+⭐ 0 | 🍴 0
+
+Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
@@ -201,18 +213,6 @@ A basic Library Plugin for Plugins
 ⭐ 2 | 🍴 0
 
 Last updated: 03:20 3 May, 2025 (UTC)
-
----
-
-#### [end-stats](https://github.com/CloveTwilight3/end-stats)
-
-A basic end stats repo
-
-**Language:** Java
-
-⭐ 0 | 🍴 0
-
-Last updated: 10:25 20 August, 2025 (UTC)
 
 ---
 
