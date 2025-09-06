@@ -4,15 +4,15 @@
 
 ### Personal Projects
 
-#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+#### [yuri-lover](https://github.com/CloveTwilight3/yuri-lover)
 
-My GitHub profile repository with custom README and configuration.
+My file system
 
-**Language:** Markdown
+**Language:** CSS
 
 ⭐ 0 | 🍴 0
 
-Last updated: 14:38 2 May, 2025 (UTC)
+Last updated: 15:42 4 September, 2025 (UTC)
 
 ---
 
@@ -25,6 +25,18 @@ My porfolio website
 ⭐ 0 | 🍴 0
 
 Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
+#### [clovetwilight3](https://github.com/CloveTwilight3/clovetwilight3)
+
+My GitHub profile repository with custom README and configuration.
+
+**Language:** Markdown
+
+⭐ 0 | 🍴 0
+
+Last updated: 14:38 2 May, 2025 (UTC)
 
 ---
 
@@ -85,18 +97,6 @@ My Useful Cheatsheets for daily use
 ⭐ 0 | 🍴 0
 
 Last updated: 15:44 4 September, 2025 (UTC)
-
----
-
-#### [yuri-lover](https://github.com/CloveTwilight3/yuri-lover)
-
-My file system
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 15:42 4 September, 2025 (UTC)
 
 ---
 
