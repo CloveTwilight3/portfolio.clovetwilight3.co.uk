@@ -4,6 +4,30 @@
 
 ### Personal Projects
 
+#### [butterfly-network](https://github.com/CloveTwilight3/butterfly-network)
+
+No description provided.
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 00:03 3 September, 2025 (UTC)
+
+---
+
+#### [www](https://github.com/CloveTwilight3/www)
+
+My Main website
+
+**Language:** HTML
+
+⭐ 0 | 🍴 0
+
+Last updated: 15:42 4 September, 2025 (UTC)
+
+---
+
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 My porfolio website
@@ -37,30 +61,6 @@ A basic end stats repo
 ⭐ 0 | 🍴 0
 
 Last updated: 10:25 20 August, 2025 (UTC)
-
----
-
-#### [butterfly-network](https://github.com/CloveTwilight3/butterfly-network)
-
-No description provided.
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 00:03 3 September, 2025 (UTC)
-
----
-
-#### [www](https://github.com/CloveTwilight3/www)
-
-My Main website
-
-**Language:** HTML
-
-⭐ 0 | 🍴 0
-
-Last updated: 15:42 4 September, 2025 (UTC)
 
 ---
 
