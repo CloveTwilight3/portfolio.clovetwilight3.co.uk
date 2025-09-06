@@ -4,18 +4,6 @@
 
 ### Personal Projects
 
-#### [www](https://github.com/CloveTwilight3/www)
-
-My Main website
-
-**Language:** HTML
-
-⭐ 0 | 🍴 0
-
-Last updated: 15:42 4 September, 2025 (UTC)
-
----
-
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 My porfolio website
@@ -25,6 +13,18 @@ My porfolio website
 ⭐ 0 | 🍴 0
 
 Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
+#### [www](https://github.com/CloveTwilight3/www)
+
+My Main website
+
+**Language:** HTML
+
+⭐ 0 | 🍴 0
+
+Last updated: 15:42 4 September, 2025 (UTC)
 
 ---
 
