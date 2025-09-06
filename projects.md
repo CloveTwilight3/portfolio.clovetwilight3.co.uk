@@ -4,16 +4,6 @@
 
 ### Personal Projects
 
-#### [yuri-lover-files](https://github.com/CloveTwilight3/yuri-lover-files)
-
-My file system
-
-⭐ 0 | 🍴 0
-
-Last updated: 16:46 6 September, 2025 (UTC)
-
----
-
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 My porfolio website
@@ -23,6 +13,16 @@ My porfolio website
 ⭐ 0 | 🍴 0
 
 Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
+#### [yuri-lover-files](https://github.com/CloveTwilight3/yuri-lover-files)
+
+My file system
+
+⭐ 0 | 🍴 0
+
+Last updated: 16:46 6 September, 2025 (UTC)
 
 ---
 
