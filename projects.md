@@ -4,15 +4,15 @@
 
 ### Personal Projects
 
-#### [yuri-lover](https://github.com/CloveTwilight3/yuri-lover)
+#### [yuri-files](https://github.com/CloveTwilight3/yuri-files)
 
-My file system
+My file system 
 
 **Language:** CSS
 
 ⭐ 0 | 🍴 0
 
-Last updated: 15:42 4 September, 2025 (UTC)
+Last updated: 16:43 6 September, 2025 (UTC)
 
 ---
 
