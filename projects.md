@@ -4,18 +4,6 @@
 
 ### Personal Projects
 
-#### [CloveModBot](https://github.com/CloveTwilight3/CloveModBot)
-
-CloveModBot Source Code
-
-**Language:** TypeScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 17:48 8 September, 2025 (UTC)
-
----
-
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 My porfolio website
@@ -319,6 +307,18 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 18:32 21 June, 2025 (UTC)
+
+---
+
+#### [Medication-Bot](https://github.com/CloveTwilight3/Medication-Bot)
+
+No description provided.
+
+**Language:** TypeScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 05:25 25 August, 2025 (UTC)
 
 ---
 
