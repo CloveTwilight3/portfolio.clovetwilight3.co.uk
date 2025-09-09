@@ -4,6 +4,18 @@
 
 ### Personal Projects
 
+#### [butterfly-network-websites](https://github.com/CloveTwilight3/butterfly-network-websites)
+
+All Butterfly Network websites
+
+**Language:** JavaScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 22:47 9 September, 2025 (UTC)
+
+---
+
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 My porfolio website
@@ -25,52 +37,6 @@ My GitHub profile repository with custom README and configuration.
 ⭐ 0 | 🍴 0
 
 Last updated: 14:38 2 May, 2025 (UTC)
-
----
-
-#### [butterfly-network-websites](https://github.com/CloveTwilight3/butterfly-network-websites)
-
-All Butterfly Network websites
-
-⭐ 0 | 🍴 0
-
-Last updated: 22:47 9 September, 2025 (UTC)
-
----
-
-#### [yuri-lover-files](https://github.com/CloveTwilight3/yuri-lover-files)
-
-My file system
-
-**Language:** CSS
-
-⭐ 0 | 🍴 0
-
-Last updated: 16:46 6 September, 2025 (UTC)
-
----
-
-#### [www](https://github.com/CloveTwilight3/www)
-
-My Main website
-
-**Language:** HTML
-
-⭐ 0 | 🍴 0
-
-Last updated: 15:42 4 September, 2025 (UTC)
-
----
-
-#### [butterfly-network](https://github.com/CloveTwilight3/butterfly-network)
-
-No description provided.
-
-**Language:** JavaScript
-
-⭐ 0 | 🍴 0
-
-Last updated: 00:03 3 September, 2025 (UTC)
 
 ---
 
@@ -329,6 +295,30 @@ No description provided.
 ⭐ 0 | 🍴 0
 
 Last updated: 05:25 25 August, 2025 (UTC)
+
+---
+
+#### [Clove-Bot](https://github.com/CloveTwilight3/Clove-Bot)
+
+No description provided.
+
+**Language:** TypeScript
+
+⭐ 0 | 🍴 0
+
+Last updated: 20:17 21 August, 2025 (UTC)
+
+---
+
+#### [ValoPeaks](https://github.com/CloveTwilight3/ValoPeaks)
+
+A Valorant Info Bot (Basic)
+
+**Language:** TypeScript
+
+⭐ 3 | 🍴 0
+
+Last updated: 00:51 21 August, 2025 (UTC)
 
 ---
 
