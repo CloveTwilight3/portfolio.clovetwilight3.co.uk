@@ -4,16 +4,6 @@
 
 ### Personal Projects
 
-#### [butterfly-network-websites](https://github.com/CloveTwilight3/butterfly-network-websites)
-
-All Butterfly Network websites
-
-⭐ 0 | 🍴 0
-
-Last updated: 22:47 9 September, 2025 (UTC)
-
----
-
 #### [portfolio.clovetwilight3.co.uk](https://github.com/CloveTwilight3/portfolio.clovetwilight3.co.uk)
 
 My porfolio website
@@ -23,6 +13,16 @@ My porfolio website
 ⭐ 0 | 🍴 0
 
 Last updated: 02:48 10 August, 2025 (UTC)
+
+---
+
+#### [butterfly-network-websites](https://github.com/CloveTwilight3/butterfly-network-websites)
+
+All Butterfly Network websites
+
+⭐ 0 | 🍴 0
+
+Last updated: 22:47 9 September, 2025 (UTC)
 
 ---
 
